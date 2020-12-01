@@ -1,3 +1,4 @@
+metakernel
 pandas
 matplotlib
 networkx
